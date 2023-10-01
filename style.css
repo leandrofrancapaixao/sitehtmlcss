@@ -1,0 +1,40 @@
+body {
+    background-color: powderblue;
+}
+
+header {
+    color: black;
+    background: url('https://images.unsplash.com/photo-1567954970774-58d6aa6c50dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvbnN0cnV0b3JhfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60');
+    padding: 20px;
+    border: 2px solid black;
+    margin: 2px;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+nav {
+    background-color: red;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    background-color: yellow;
+
+}
+main {
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: 90px;
+    margin-right: 90px;
+    
+}
